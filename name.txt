@@ -1,9 +1,0 @@
-Sakız
-Çilek
-<<<<<<< HEAD
-Duman
-=======
-Bambi
-Prens
-Şeker
->>>>>>> kitten-name
